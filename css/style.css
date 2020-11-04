@@ -1,6 +1,24 @@
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ddd;
     text-align: center;
-    color: wheat;
-    background: #333;
+    background: #ebf;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid deeppink;
+    border-radius: 5px;
+    margin: 10px auto;
+    background-color: deeppink;
+}
+
+#container h1{
+    font-size: 20px;
+    color: #ebf;
 }
