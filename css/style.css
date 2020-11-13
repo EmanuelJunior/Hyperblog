@@ -30,11 +30,15 @@ body{
     text-align: left;
     border: 1px solid deeppink;
     border-radius: 5px;
-    margin: 0 auto;
+    margin: 15px auto;
     background-color: deeppink;
 }
 
 #container h1{
     font-size: 20px;
     color: #ebf;
+}
+
+#post{
+    padding: 15px;
 }
