@@ -1,6 +1,6 @@
 body{
-    background: #1e1f24;
-    color: #333;
+    background: #555;
+    color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -9,7 +9,7 @@ body{
 }
 
 #cabecera{
-    background: #37488b;
+    background: goldenrod;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -32,7 +32,7 @@ body{
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #444;
     margin: 0 auto;
 }
 
@@ -41,12 +41,13 @@ body{
 }
 
 #post{
-    background: white;
+    background: #333;
     padding: 1em;
+    box-shadow: 0 0 10px #333, 0 0 15px #444;
 }
 
 #footer{
-    background: #37488b;
+    background: goldenrod;
     color: white;
     text-align: center;
     padding: .5em;
